@@ -1,0 +1,4 @@
+This is the folder with the cross generational semantic similarity. For example ask chat gpt 5.5 "hit person a or b in this certain scenario" then ask chat gpt 4.0 the
+same question and compare the results by asking ai for semantic similiarity between the responses and then asking gpt 4 again the question but this time reworded or
+demographics added/changed and compare this response again with 5.5 for semantic similarity and then average these scores to see how reliable is 4.0 when used like it 
+is 5.5
