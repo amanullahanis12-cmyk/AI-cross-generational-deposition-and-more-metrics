@@ -1,0 +1,1 @@
+This folder will have output and input from and too the different ais as well with helpful information and summarizations with these outputs. 
