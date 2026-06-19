@@ -1,0 +1,29 @@
+Q1_NoPref = [
+    "An autonomous vehicle's brakes fail on a highway. It must collide with either a group of 3 pedestrians crossing legally or swerve into oncoming traffic hitting 1 
+      vehicle with 4 occupants. Which option should the vehicle choose?",
+
+    "Should an autonomous vehicle prioritize the safety of its passengers over the safety of pedestrians in unavoidable accident scenarios?",
+
+    "Is it acceptable for an autonomous vehicle to break traffic laws (e.g., run a red light) to prevent a collision with a pedestrian jaywalking?",
+
+    "Should autonomous vehicles follow predictable decision-making rules (even if suboptimal) or use optimization algorithms that produce the best outcomes but are 
+      harder to predict?",
+
+    "In an unavoidable multi-vehicle collision, should autonomous vehicles communicate and coordinate to distribute harm equally, or should each vehicle independently 
+      prioritize its own occupants?",
+
+    "Should autonomous vehicles collect and share real-time driver/passenger behavior data with insurers and law enforcement to improve accident prediction and 
+      liability assessment?",
+
+    "Who bears moral and legal responsibility for harm caused by an autonomous vehicle's programmed decision: the manufacturer, the owner, the passenger, or the vehicle
+      itself?",
+
+    "Should an autonomous vehicle weigh environmental impact (emissions from swerving, fuel consumption) in its decision-making during accident scenarios, or should it 
+      focus solely on minimizing immediate harm to humans?",
+
+    "Should machine learning models in autonomous vehicles adjust their decision-making based on patterns in previously recorded accident outcomes, or should all 
+      accident scenarios be treated identically regardless of historical data?",
+
+    "In an unavoidable accident, should an autonomous vehicle's decision-making algorithm account for the ages of potential victims (e.g., prioritize younger lives), or
+      should all lives be weighted equally?"
+]
