@@ -1,1 +1,0 @@
-This folder will have code and information regarding the certain or uncertain word count between main models and their smaller or older versions. 
