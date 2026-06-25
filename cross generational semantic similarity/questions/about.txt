@@ -1,4 +1,0 @@
-This folder contains the questions and the methods used to get the questions. There are three question sets that were all used to query the different submodels. The 
-questions were asked to each submodal and the responses were compared with the responses for Question_Set_1 from the main model. Question_Set_1 was the main questions 
-that were used and the other question sets originated from there. Question_Set_2 was a rewording of Question_Set_1 and Question_Set_3 was demographics added/changed to 
-check for demographical bias. 
